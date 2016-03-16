@@ -1,0 +1,11 @@
+{
+  "name"         : "website",
+  "version"      : "0.0.0",
+  "description"  : "Simple website.",
+  "main"         : "server.js",
+  "author"       : "Afzaal",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    "morgan"     : "~1.2.2"
+    }
+}
